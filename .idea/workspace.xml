@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a68583c6-08dd-4c80-82b1-cfa922176c66" name="Changes" comment="Spotkania finałowe baraży" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="buy_nothing_day" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21VlTwu9cCeU4Qi8l6bZ3X6coyw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Markdown" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.6" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a68583c6-08dd-4c80-82b1-cfa922176c66" name="Changes" comment="" />
+      <created>1638034146853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638034146853</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Dzień bez zakupów">
+      <created>1638034775061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638034775061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Opis dnia bez zakupów">
+      <created>1638035715256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638035715256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Opis dnia bez zakupów">
+      <created>1638035753829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638035753829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dzień bez zakupów">
+      <created>1638036044619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036044619</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Opis dnia bez zakupów">
+      <created>1638036093542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036093542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Obchody dnia bez zakupów">
+      <created>1638036235564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036235564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Spotkania półfinałowe baraży">
+      <created>1638036683697</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036683697</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Spotkania finałowe baraży">
+      <created>1638036738905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638036738905</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Opis dnia bez zakupó" />
+    <MESSAGE value="Dzień bez zakupów" />
+    <MESSAGE value="Opis dnia bez zakupów" />
+    <MESSAGE value="Obchody dnia bez zakupów" />
+    <MESSAGE value="Spotkania półfinałowe baraży" />
+    <MESSAGE value="Spotkania finałowe baraży" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spotkania finałowe baraży" />
+  </component>
+</project>
